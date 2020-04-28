@@ -129,12 +129,9 @@ dmypy.json
 .pyre/
 
 # Custom
-#nbs/17*
-#nbs/15*/*solu*
-#data/ti*
 slides/
-projet2/p*
-projet2/h*
+#projet2/p*
+#projet2/h*
 projet3/s*
 projet2/e*
-projet2/AUS_test_R*
+
